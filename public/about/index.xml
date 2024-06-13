@@ -5,7 +5,7 @@
     <link>//localhost:4321/about/</link>
     <description>Recent content in About on Hugo Apéro</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>pt</language>
     <atom:link href="//localhost:4321/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
