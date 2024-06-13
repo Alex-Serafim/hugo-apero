@@ -1,6 +1,6 @@
 baseURL: /
 theme: hugo-apero
-languageCode: en
+languageCode: pt
 title: Hugo Apéro
 author: Alison Hill
 copyright: ''
@@ -61,8 +61,8 @@ params:
     - icon: github
       icon_pack: fab
       url: https://github.com/apreshill/apero
-    - icon: bluesky
-      icon_pack: fab
+    - icon: lattes
+      icon_pack: ai
       url: https://bsky.app/
     - icon: instagram
       icon_pack: fab
